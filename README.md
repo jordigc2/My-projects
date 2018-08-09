@@ -1,5 +1,3 @@
-# My-projects
-
 
 - In this repository I expose:
   - some of the projects done along my Career as a programmer. 
