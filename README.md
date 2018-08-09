@@ -4,6 +4,7 @@
 - In this repository I expose:
   - some of the projects done along my Career as a programmer. 
   - The Curriculum Vitae.
+  
 ### *Background*
 - I have studied computer science in Universitat Autonoma de Barcelona and I did the specialization on computation. 
 - I have worked in HP Inc for 6 months, where I developed my bachelor thesis.
