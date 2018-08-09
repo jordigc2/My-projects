@@ -1,7 +1,7 @@
 # My-projects
 
 
-- In this repository I expose all the projects done along my Career as a programmer. 
+- In this repository I expose some of the projects done along my Career as a programmer. 
 
 ### *Background*
 - I have studied computer science in Universitat Autonoma de Barcelona and I did the specialization on computation. 
