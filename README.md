@@ -10,4 +10,4 @@
 - Next year, on September 2018, I'll stat a master in Aalborg University of Copenhagen in Autonomous Systems.
 
 ### *Projects*
-- The first project published is the **Bachelor thesis**. This project has been developed in HP Inc and is about doing the Color Management with Machine Learning techniques. In that folder it is stored the final report and a poster that summarize the project.
+- **\[Feb 2018 – Jul 2018]** The first project published is my **Bachelor thesis**. This project has been developed in HP Inc and is about doing the Color Management with Machine Learning techniques. In that folder it is stored the final report and a poster that summarize the project.
