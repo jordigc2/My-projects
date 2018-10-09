@@ -1,7 +1,7 @@
 
 - In this repository I expose:
   - Some of the projects done along my Career as a programmer. 
-  - [Curriculum Vitae](https://github.com/jordigc2/My-projects/blob/master/Curr%C3%ADculum.pdf).
+  - [Curriculum Vitae](https://github.com/jordigc2/My-projects/blob/master/Jordi%20Gonzalez%20Cano%20CV.pdf).
   
 ### Background
 - From September 2016 till February 2017, Erasmus at University of Twente.
