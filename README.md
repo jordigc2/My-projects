@@ -8,7 +8,7 @@
 - **\[Sep 2016 – Feb 2017]** Erasmus+ at University of Twente.
 - **\[Sep 2014 – Jul 2018]** I have studied a bachelor in Computer Science at Universitat Autonoma de Barcelona (UAB)
 
-### Profetional experiance
+### Work experience
 - **\[Aug 2020 – Present]** Currently working at Mobile Industrial Robots A/S (MiR), where I work with Computer Vision, Machine Learning algorithms and together with the NVIDIA JetPack on a Jetson board.
 - **\[Feb 2020 – Aug 2020]** Master thesis at Mobile Industrial Robots A/S (MiR), where I developed my master thesis about Visual SLAM with multiple cameras build on a MiR robot in C++.
 - **\[Sep 2019 – Jan 2020]** Internship at Mobile Industrial Robots A/S (MiR), where I worked in Multiple Object tracking algorithm using OpenCV, YOLO_v3 tinny and the Deepstream SDK.
